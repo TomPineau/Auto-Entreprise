@@ -1,0 +1,56 @@
+table|excel_column|database_column
+activity_report|Date|date
+activity_report|Jour Ouvré|business_day
+activity_report|ID Mission|mission_id
+activity_report|1/2 Matin|first_half_morning
+activity_report|2/2 Matin|second_half_morning
+activity_report|1/2 Après Midi|first_half_afternoon
+activity_report|2/2 Après Midi|second_half_afternoon
+activity_report|Description|description
+activity_report|Total Jour|total
+address|ID|id
+address|Adresse|address
+address|Code Postal|zip_code
+address|Ville|city
+address|Pays|country
+address|Siège|is_headquarters
+average_daily_rate|ID Mission|mission_id
+average_daily_rate|TJM|adr
+average_daily_rate|Montant de Commission|fee_amount
+average_daily_rate|Unité de Commission|fee_unit
+average_daily_rate|Montant du Bonus|bonus_amount
+average_daily_rate|Unité du Bonus|bonus_unit
+average_daily_rate|Date de Début|from_date
+average_daily_rate|Date de Fin|to_date
+customer|Code|code
+customer|Nom|name
+customer|Numéro de téléphone|phone
+customer|Mail|email
+customer|Date 1er Contact|first_contact_date
+customer|ID d'adresse de siège|headquarters_address_id
+invoice|Numéro|number
+invoice|Date|date
+invoice|Montant|amount
+invoice|Code Client|customer_code
+invoice|ID Adresse|address_id
+invoice|Payée|is_paid
+invoice|Date d'envoi|delivery_date
+invoice|Date de paiement|payment_date
+invoice|Méthode de paiement|payment_method
+mission|ID|id
+mission|Code Client|customer_code
+mission|ID Adresse|address_id
+mission|Code Secteur|sector_code
+mission|Intitulé|title
+mission|Description|description
+mission|Date de Début|from_date
+mission|Date de Fin|to_date
+mission_customer|ID Mission|mission_id
+mission_customer|Code Client Parent|parent_customer_code
+mission_customer|Code Client Enfant|child_customer_code
+mission_customer|Client Facturé|invoiced_customer
+public_holiday|Date|date
+public_holiday|Nom|name
+sector|Code|Code
+sector|Nom|name
+sector|Date de Début|from_date

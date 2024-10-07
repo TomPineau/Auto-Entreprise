@@ -1,0 +1,10 @@
+order_creation|database_table
+1|public_holiday
+2|sector
+3|address
+4|customer
+5|invoice
+6|mission
+7|mission_customer
+8|activity_report
+9|average_daily_rate

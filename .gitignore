@@ -1,0 +1,5 @@
+__pycache__/
+Administration/
+EXCEL/*
+!EXCEL/.gitkeep
+SQL/Dump/*

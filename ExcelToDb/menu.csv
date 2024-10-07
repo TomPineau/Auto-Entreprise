@@ -1,0 +1,6 @@
+id|detail|function
+0|Exit|exit
+1|Update the database|update_database
+2|Create a dump of the database|dump_database
+3|Restore the database from backup file|restore_database
+4|Test|test

@@ -1,0 +1,21 @@
+excel_name|excel_sheet|database_table
+2023|Janvier|activity_report
+2023|Février|activity_report
+2023|Mars|activity_report
+2023|Avril|activity_report
+2023|Mai|activity_report
+2023|Juin|activity_report
+2023|Juillet|activity_report
+2023|Aout|activity_report
+2023|Septembre|activity_report
+2023|Octobre|activity_report
+2023|Novembre|activity_report
+2023|Décembre|activity_report
+Jours Fériés|Jours Fériés|public_holiday
+Adresse|Adresse|address
+Client|Client|customer
+ClientMission|ClientMission|mission_customer
+Facture|Facture|invoice
+Mission|Mission|mission
+TJM|TJM|average_daily_rate
+Secteur|Secteur|sector
